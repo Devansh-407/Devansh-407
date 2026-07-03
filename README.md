@@ -108,7 +108,7 @@ Mobile-first responsive portfolio with dynamic project showcase and contact inte
 
 ---
 
-## 🕹️ Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph-dark.svg">
@@ -120,6 +120,4 @@ Mobile-first responsive portfolio with dynamic project showcase and contact inte
 
 ---
 
-<div align="center">
-  <i>🌌 Destiny always demands patience 🌌</i>
-</div>
+
