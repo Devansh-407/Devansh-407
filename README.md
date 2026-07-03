@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- 🖼️ BANNER IMAGE — add yours here later -->
-<!-- ![Devansh Gupta Banner](your-banner-image-url-here) -->
-
 # Hey, I'm Devansh Gupta 👋
 ### Full Stack Developer • AI Enthusiast • Lifelong Learner
 
