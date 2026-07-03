@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/__devansh__/">
-    <img src="https://leetcard.jacoblin.cool/__Grey__?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/__devansh__?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
   </a>
 </div>
 
