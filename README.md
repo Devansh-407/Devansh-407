@@ -18,9 +18,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as a **Full Stack (MERN) Intern** at Infosys Springboard, building RESTful APIs and authentication systems
+- 💻 **Full Stack (MERN) Developer** — completed my internship at Infosys Springboard, where I built full-stack web applications using MongoDB, Express.js, React, and Node.js with a focus on RESTful API design and authentication
+- 🎨 Completed a **UI/UX Internship at Zoro Innovations**, where I designed the complete UI/UX for a Smart Campus Management System serving 3 user roles (Student, Faculty, Admin) using Figma
 - 🌱 Learning more about **AI-powered apps, system design, and cloud infrastructure**
-- 💻 Solved **300+ problems on LeetCode**, with a strong base in Data Structures & Algorithms and OOP
+- 📊 Solved **300+ problems on LeetCode**, with a strong base in Data Structures & Algorithms and OOP
 - 👯 Open to collaborating on **full-stack, AI, and UI/UX-driven projects**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, REST APIs**
 - 🏆 Semi-finalist at **Guidewire DEVTrails University Hackathon 2026**
@@ -108,11 +109,10 @@ Mobile-first responsive portfolio with dynamic project showcase and contact inte
 
 ---
 
-
+## 🕹️ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph.svg">
 </picture>
-
