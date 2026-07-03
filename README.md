@@ -69,9 +69,17 @@
 
 ## 🧠 Coding Platforms
 
+<h3 align="center">LeetCode Info</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Devansh" height="130" width="130" /></a>
+  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Devansh" height="135" width="135" /></a>
+  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Devansh" height="140" width="140" /></a>
+  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/3.gif" alt="Devansh" height="145" width="145" /></a>
+  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="Devansh" height="150" width="150" /></a>
+</p>
 <div align="center">
-  <a href="https://leetcode.com/u/__devansh__/">
-    <img src="https://leetcard.jacoblin.cool/__devansh__?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/__Grey__/">
+    <img src="https://leetcard.jacoblin.cool/__Grey__?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
   </a>
 </div>
 
