@@ -71,14 +71,14 @@
 
 <h3 align="center">LeetCode Info</h3>
 <p align="center">
-  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Devansh" height="135" width="135" /></a>
-  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="Devansh" height="150" width="150" /></a>
-  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/5.gif" alt="Devansh" height="150" width="150" /></a>
-  <a href="https://leetcode.com/u/__Grey__/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/6.gif" alt="Devansh" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/__Grey/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Devansh" height="135" width="135" /></a>
+  <a href="https://leetcode.com/u/__Grey/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="Devansh" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/__Grey/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/5.gif" alt="Devansh" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/__Grey/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/6.gif" alt="Devansh" height="150" width="150" /></a>
 </p>
 <div align="center">
-  <a href="https://leetcode.com/u/__Grey__/">
-    <img src="https://leetcard.jacoblin.cool/__Grey__?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/__Grey/">
+    <img src="https://leetcard.jacoblin.cool/__Grey?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
   </a>
 </div>
 
