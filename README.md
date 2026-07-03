@@ -5,10 +5,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+web+applications+with+MERN;Exploring+AI-powered+apps+%2B+system+design;Open+to+collaboration+on+impactful+projects" alt="Typing animation" />
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=Devansh-407&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Devansh-407&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/Devansh-407?tab=followers"><img src="https://img.shields.io/github/followers/Devansh-407?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="https://github.com/Devansh-407?tab=repositories"><img src="https://img.shields.io/github/stars/Devansh-407?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/devansh-gupta-17b496369/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://devansh-gupta-407-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.behance.net/devanshgupta417" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:devansh.codee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 </div>
@@ -36,18 +37,6 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, REST APIs**
 - 🏆 Semi-finalist at **Guidewire DEVTrails University Hackathon 2026**
 - ⚡ Fun fact: I love turning ideas into working products end-to-end — from Figma to deployment
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/devansh-gupta-17b496369/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://devansh-gupta-407-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.behance.net/devanshgupta417" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="mailto:devansh.codee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
