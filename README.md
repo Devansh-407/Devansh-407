@@ -17,8 +17,6 @@
 
 ---
 
-## 🕹️ Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh-407/Devansh-407/output/pacman-contribution-graph.svg">
