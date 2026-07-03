@@ -1,6 +1,6 @@
 <div align="center">
 
-![Dhairya gothi bg LinkedIn](https://github.com/user-attachments/assets/24631724-4474-4a7c-a12d-6787726cbccb)
+
 
 # Hey, I'm Devansh Gupta 👋
 ### Frontend Developer • Open Source Enthusiast • Lifelong Learner
