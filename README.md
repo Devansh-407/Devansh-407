@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hey, I'm Devansh Gupta 👋
-### Full Stack Developer • Lifelong Learner
+# Full Stack Developer • Lifelong Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+web+applications+with+MERN;Exploring+AI-powered+apps+%2B+system+design;Open+to+collaboration+on+impactful+projects" alt="Typing animation" />
 
